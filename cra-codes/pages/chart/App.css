@@ -1,0 +1,13 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.chart-container {
+  width: calc(100% - 20px);
+  height: calc(100% - 20px);
+  border: solid 1px #ccc;
+}
